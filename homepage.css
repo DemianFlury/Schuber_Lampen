@@ -1,0 +1,12 @@
+html{
+    padding: 0px;
+    margin:  0px;
+}
+
+.titlecontainer{
+    display:flex;
+    font-size: 50px;
+}
+.title{
+    align-content: center;
+}
