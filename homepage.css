@@ -10,3 +10,7 @@ html{
 .title{
     align-content: center;
 }
+
+.logo{
+    height: 200px;
+}
