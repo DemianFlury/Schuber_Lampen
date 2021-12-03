@@ -19,9 +19,6 @@ body{
     height: 300px;
     transform: scaleX(-1);
 }
-
-
-
 .navigation{
     background-color: rgb(65, 65, 65);
     width: 100%;
@@ -39,13 +36,11 @@ body{
     color: rgb(65, 65, 65);
     background-color: red;
 }
-
 .footer{
     background-color: rgb(65, 65, 65);
     display: flex;
     align-content: flex-end;
 }
-
 .logo_footer{
     height: 100px;
 }
