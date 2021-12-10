@@ -1,3 +1,4 @@
 # Schuber_Lampen
 
-Im Ordner Vorlagen sind alle Bilder und Texte, die Websites werden im Repository direkt abgelegt.
+Ein Projekt, entstanden im Modul 101 bzw. IPT 4.0
+Alle Vorlagen und Bilder wurden von der Lehrperson zur Verfügung gestellt, sie sind im Ordner "Vorlagen" zu finden.
