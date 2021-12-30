@@ -1,4 +1,5 @@
 # Schuber_Lampen
 
 Ein Projekt, entstanden im Modul 101 bzw. IPT 4.0
-Alle Vorlagen und Bilder wurden von der Lehrperson zur Verfügung gestellt, sie sind im Ordner "Vorlagen" zu finden.
+Vorlagen und Texte wurden von der Lehrperson zur Verfügung gestellt, sie sind im Ordner "Vorlagen" zu finden.
+Bilder von Personen wurden von der Webseite thispersondoesnotexist.com heruntergeladen.
