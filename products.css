@@ -71,7 +71,7 @@ body{
     width: 45%;
     background-color: rgb(65, 65, 65);
     color: red;
-    padding: 20px;
+    padding: 30px 20px;
     margin: 20px;
 }
 
@@ -79,17 +79,16 @@ body{
     text-align: center;
 }
 
-/*
-.product-container :hover{
-    transform: scale(1.02); 
-}
-*/
 
-.products-image{
-    /*transition: transform 1s;*/
-    height: 100%;
+.product-container :hover{
+    transform: scale(1.05); 
+}
+
+
+.product-image{
+    transition: transform 0.5s;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .image-container{
