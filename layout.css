@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    margin:  0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(8, 123, 143);
+}
+.header{
+    display:flex;
+    justify-content: flex-end;
+    font-size: 48px;
+    align-content: center;
+    background-image: url(/Vorlagen/Produkte/Pierre.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center 57%;
+    background-size: 120%;
+    transform: scaleX(-1);
+}
+.logo{
+    height: 300px;
+    transform: scaleX(-1);
+}
+.navigation{
+    background-color: rgb(65, 65, 65);
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+.nav{
+    color: red;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: none;
+}
+#selected{
+    color: rgb(65, 65, 65);
+    background-color: red;
+}
+.footer{
+    background-color: rgb(65, 65, 65);
+    display: flex;
+    align-content: flex-end;
+}
+.logo_footer{
+    height: 100px;
+}
+.footer_links{
+    color: red;
+    margin: 0px;
+    padding: 5px; 
+    font-size: 15px;
+}
+.container_links{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    align-content: space-around;
+    width: 100%;
+}
