@@ -32,6 +32,9 @@ body{
     font-size: 25px;
     padding: 20px;
     text-decoration: none;
+    width: 20%;
+    text-align: center;
+
 }
 #selected{
     color: rgb(65, 65, 65);
@@ -97,4 +100,7 @@ body{
 
 .product-text{
     font-size: 20px;
+    margin: 20px;
+    padding: 30px;
+    font-size: 25px;
 }
