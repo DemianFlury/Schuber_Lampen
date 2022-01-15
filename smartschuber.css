@@ -61,55 +61,22 @@ body{
     width: 100%;
 }
 
-.teamcontainer{
-    margin: 20px;
-    display: flex;
-    color: red;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
-.team-element{
-    background-color: rgb(65, 65, 65);
-    width: 45%;
-    display: flex;
-    padding: 30px 20px;
-    margin-top: 20px;
-}
-
-.left{
-    flex-direction: row-reverse;
-}
-
-.teambild{
-    width: 50%;
-}
-
-.text-team{
-    width: 50%;
-    font-size: 25px;
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-}
-
-.text-holding{
-    text-align:center;
-    margin-bottom: 0px;
-}
-
-.bild-holding{
-    margin-top: 0px;
-}
-
-.holding-container{
-    align-self: center;
-    color: red;
-    width: 100%;
-    font-size: 25px;
-    width: 77%;
-    background-color: rgb(65, 65, 65);
-    margin: 20px auto;
+.text{
     padding: 20px;
+    font-size: 25px;
+    width: 50%;
 }
+.container{
+    background-color: rgb(65, 65, 65);
+    color: red;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+}
+
+
+a{
+    color: red;
+}
+
