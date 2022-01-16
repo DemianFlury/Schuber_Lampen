@@ -73,7 +73,7 @@ body{
     background-color: rgb(65, 65, 65);
     width: 45%;
     display: flex;
-    padding: 30px 20px;
+    padding: 20px;
     margin-top: 20px;
 }
 
@@ -112,4 +112,42 @@ body{
     background-color: rgb(65, 65, 65);
     margin: 20px auto;
     padding: 20px;
+}
+
+a{
+    color: red;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    padding: 5px;
+    margin: 5px;
+}
+
+.table-mid{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    width: 33%;
+}
+
+.table-end{
+    width: 33%;
+    flex-wrap: nowrap;
+    display: flex;
+    justify-content: end;
+    padding-right: 50px;
+
+}
+.table-one{
+    width: 33%;
+    display: flex;
+    padding-left: 50px;
+}
+tr{
+    display: flex;
+    flex-wrap: nowrap;
 }

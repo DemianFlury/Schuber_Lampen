@@ -74,7 +74,7 @@ body{
     width: 45%;
     background-color: rgb(65, 65, 65);
     color: red;
-    padding: 30px 20px;
+    padding: 20px;
     margin: 20px;
 }
 
@@ -92,15 +92,21 @@ body{
     transition: transform 0.5s;
     width: 100%;
     object-fit: contain;
+    max-height: 700px;
 }
 
 .image-container{
     width: 95%;
 }
 
-.product-text{
-    font-size: 20px;
-    margin: 20px;
-    padding: 30px;
+
+a{
+    text-decoration: none;
+    color: red;
+    text-align: center;
     font-size: 25px;
+}
+
+.product-text{
+    margin: 20px;
 }
