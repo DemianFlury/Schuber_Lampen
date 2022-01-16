@@ -105,3 +105,10 @@ body{
     text-align: center;
 }
 
+.container-text{
+    color: red;
+    background-color: rgb(65, 65, 65);
+    margin: 20px auto;
+    padding: 20px;
+    width: 85%;
+}
