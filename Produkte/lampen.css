@@ -74,17 +74,12 @@ body{
     width: 50%;
     font-size: 50px;
     display: flex;
-    align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 
 .bild{
-    width: 100%;
-}
-
-h1{
-    color: red;
     width: 100%;
 }
 
@@ -103,4 +98,6 @@ h1{
     font-size: 45px;
     color: red;
     font-weight: bold;
+    padding: 50px;
+    padding-bottom: 10px;
 }
