@@ -1,5 +1,8 @@
 # Schuber_Lampen
 
-Ein Projekt, entstanden im Modul 101 bzw. IPT 4.0
+Dies ist mein Abschlussprojekt des Moduls 101 im 2. Lehrjahr. Es ist im Herbst und Winter 2021/22 entstanden.
+
 Vorlagen und Texte wurden von der Lehrperson zur Verfügung gestellt, sie sind im Ordner "Vorlagen" zu finden.
-Bilder von Personen wurden von der Webseite thispersondoesnotexist.com heruntergeladen.
+Alle Bilder, die nicht Produktfotos sind, kommen von unsplash oder sind selbst aufgenommen.
+
+https://unsplash.com/
