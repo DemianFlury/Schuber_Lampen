@@ -1,153 +1,156 @@
-body{
-    padding: 0px;
-    margin:  0px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(8, 123, 143);
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(8, 123, 143);
 }
-.header{
-    display:flex;
-    justify-content: flex-end;
-    font-size: 48px;
-    align-content: center;
-    background-image: url(/Vorlagen/Produkte/Pierre.jpg);
-    height: 500px;
-    width: 100%;
-    background-position: center 57%;
-    background-size: 120%;
-    transform: scaleX(-1);
+.header {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 48px;
+  align-content: center;
+  background-image: url(/Vorlagen/Produkte/Pierre.jpg);
+  height: 500px;
+  width: 100%;
+  background-position: center 57%;
+  background-size: 120%;
+  transform: scaleX(-1);
 }
-.logo{
-    height: 300px;
-    transform: scaleX(-1);
+.logo {
+  height: 300px;
+  transform: scaleX(-1);
 }
-.navigation{
-    background-color: rgb(65, 65, 65);
-    width: 100%;
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
+.navigation {
+  background-color: rgb(58, 58, 58);
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  text-shadow: 2px 2px rgb(0, 0, 0);
 }
-.nav{
-    color: red;
-    font-size: 25px;
-    padding: 20px;
-    text-decoration: none;
-    width: 20%;
-    text-align: center;
+.nav {
+  color: red;
+  font-size: 25px;
+  padding: 20px;
+  text-decoration: none;
+  width: 20%;
+  text-align: center;
 }
-.selected{
-    color: rgb(65, 65, 65);
-    background-color: red;
+.selected {
+  color: black;
+  background-color: red;
+  text-shadow: none;
 }
-.footer{
-    background-color: rgb(65, 65, 65);
-    display: flex;
-    align-content: flex-end;
+.footer {
+  background-color: rgb(58, 58, 58);
+  display: flex;
+  align-content: flex-end;
 }
-.logo_footer{
-    height: 100px;
+.logo_footer {
+  height: 100px;
 }
-.footer_links{
-    color: red;
-    margin: 0px;
-    padding: 5px; 
-    font-size: 15px;
+.footer_links {
+  color: red;
+  margin: 0px;
+  padding: 5px;
+  font-size: 15px;
 }
-.container_links{
-    display: flex;
-    flex-wrap: wrap; 
-    justify-content: space-around;
-    align-content: space-around;
-    width: 100%;
-}
-
-.teamcontainer{
-    margin: 20px;
-    display: flex;
-    color: red;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+.container_links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+  width: 100%;
 }
 
-.team-element{
-    background-color: rgb(65, 65, 65);
-    width: 45%;
-    display: flex;
-    padding: 20px;
-    margin-top: 20px;
+.teamcontainer {
+  text-shadow: 2px 2px black;
+  margin: 20px;
+  display: flex;
+  color: red;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-.left{
-    flex-direction: row-reverse;
+.team-element {
+  background-color: rgb(58, 58, 58);
+  width: 45%;
+  display: flex;
+  padding: 20px;
+  margin-top: 20px;
 }
 
-.teambild{
-    width: 50%;
+.left {
+  flex-direction: row-reverse;
 }
 
-.text-team{
-    width: 50%;
-    font-size: 25px;
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
+.teambild {
+  width: 50%;
 }
 
-.text-holding{
-    text-align:center;
-    margin-bottom: 0px;
+.text-team {
+  width: 50%;
+  font-size: 25px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
 }
 
-.bild-holding{
-    margin-top: 0px;
+.text-holding {
+  text-align: center;
+  margin-bottom: 0px;
 }
 
-.holding-container{
-    align-self: center;
-    color: red;
-    width: 100%;
-    font-size: 25px;
-    width: 77%;
-    background-color: rgb(65, 65, 65);
-    margin: 20px auto;
-    padding: 20px;
+.bild-holding {
+  margin-top: 0px;
 }
 
-a{
-    color: red;
+.holding-container {
+  align-self: center;
+  color: red;
+  width: 100%;
+  font-size: 25px;
+  width: 77%;
+  background-color: rgb(58, 58, 58);
+  margin: 20px auto;
+  padding: 20px;
+  text-shadow: 2px 2px black;
 }
 
-table{
-    width: 100%;
+a {
+  color: red;
 }
 
-td{
-    padding: 5px;
-    margin: 5px;
+table {
+  width: 100%;
 }
 
-.table-mid{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    width: 33%;
+td {
+  padding: 5px;
+  margin: 5px;
 }
 
-.table-end{
-    width: 33%;
-    flex-wrap: nowrap;
-    display: flex;
-    justify-content: end;
-    padding-right: 50px;
+.table-mid {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  width: 33%;
+}
 
+.table-end {
+  width: 33%;
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: end;
+  padding-right: 50px;
 }
-.table-one{
-    width: 33%;
-    display: flex;
-    padding-left: 50px;
+.table-one {
+  width: 33%;
+  display: flex;
+  padding-left: 50px;
 }
-tr{
-    display: flex;
-    flex-wrap: nowrap;
+tr {
+  display: flex;
+  flex-wrap: nowrap;
 }
