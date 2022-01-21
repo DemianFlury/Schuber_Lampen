@@ -111,3 +111,15 @@ table {
 .top {
   padding: 20px;
 }
+
+.showroom {
+  background-color: rgb(58, 58, 58);
+  padding: 20px;
+  margin: 20px auto;
+  align-items: center;
+  width: 95%;
+}
+
+.map-text{
+  width: 40%;
+}
