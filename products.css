@@ -84,8 +84,8 @@ body {
   text-align: center;
 }
 
-.product-container :hover {
-  transform: scale(1.05);
+.product-image:hover {
+  transform: scale(1.047);
 }
 
 .product-image {
