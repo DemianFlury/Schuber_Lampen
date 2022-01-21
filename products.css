@@ -9,7 +9,7 @@ body {
   justify-content: flex-end;
   font-size: 48px;
   align-content: center;
-  background-image: url(/Vorlagen/Produkte/Pierre.jpg);
+  background-image: url(Vorlagen/Produkte/Pierre.jpg);
   height: 500px;
   width: 100%;
   background-position: center 57%;
