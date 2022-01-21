@@ -36,7 +36,7 @@ body{
     text-align: center;
 
 }
-#selected{
+.selected{
     color: rgb(65, 65, 65);
     background-color: red;
 }
